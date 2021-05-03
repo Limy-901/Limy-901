@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3385FF&height=300&section=header&text=YeonJi_Im&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3385FF&height=300&section=header&text=YeonJi_Im&fontSize=90&animation=twinkling)
 
 <!--
 **Limy-901/Limy-901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
