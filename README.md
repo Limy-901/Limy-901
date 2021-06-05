@@ -8,6 +8,4 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Spring-6d92e3?style=flat-square&logo=Spring&logoColor=white">&nbsp;  <img src="https://img.shields.io/badge/HTML-8474cd?style=flat-square&logo=HTML5&logoColor=white">&nbsp;  <img src="https://img.shields.io/badge/CSS-aa6495?style=flat-square&logo=CSS3&logoColor=white">&nbsp;  <img src="https://img.shields.io/badge/Python-703d61?style=flat-square&logo=Python&logoColor=white">&nbsp;  <p><br><br>
 
-<h3 align="center">💌 <a href="mailto:ly.misty901@naver.com">Contact</a> 💌</h3><br>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=999999&height=130&section=footer&20render&fontSize=90)
