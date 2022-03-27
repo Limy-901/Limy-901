@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3385FF&height=300&section=header&text=YeonJi&fontSize=90&animation=twinkling&fontColor=ffffff)
 
 
-<h3 align="center">🐣 무엇이든 만드는 것을 좋아하는 신입 개발자 🐣</h3>
+<h3 align="center">🐣 무엇이든 만드는 것을 좋아하는 개발자 🐣</h3>
 
 <h3 align="center">🛠  Tech Stack  🛠</h3><br>
 <p align="center"><img src="https://img.shields.io/badge/Java-e77e69?style=flat-square&logo=Java&logoColor=white&link=https://velog.io/@new_wisdom">&nbsp;  <img src="https://img.shields.io/badge/JavaScript-ffdd49?style=flat-square&logo=JavaScript&logoColor=black">&nbsp;  <img src="https://img.shields.io/badge/Oracle-9cd1c2?style=flat-square&logo=Oracle&logoColor=black"></p>
